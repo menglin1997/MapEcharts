@@ -17,7 +17,7 @@
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "echarts": "4.1.0",
-    "axios": "0.18.0"
+    "axios": "0.21.1"
   },
   "devDependencies": {
     "address": "^1.0.3",
